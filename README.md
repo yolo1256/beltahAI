@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-BOT+IS+A+WHATSAPP+CREATED+BY+BELTAH-TECH-TEAM" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-BOT+IS+A+SIMPLE+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
