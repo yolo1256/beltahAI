@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐃𝐑𝐄𝐗_𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐁𝐞𝐥𝐭𝐚𝐡 𝐊𝐄';
 
-const owner = process.env.DEV || '254102074064'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '25414141192'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("DREX-AI", {
+      figlet.textSync("BELTAH_AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `Hail to ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `THIS IS ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -300,7 +300,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200D',
         'group\x20rule',
-        '𝐃𝐑𝐄𝐗_𝐀𝐈\x20Bot',
+        '☹︎𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 𝐁𝐎𝐓☹︎',
         'lry',
         'cBOYH',
         'ILuES',
@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
-      console.log(color("Follow me on Instagram as @drex_mose", "red"));
+      console.log(color("Congrats, beltah ai has successfully connected to this server", "green"));
+      console.log(color("Follow me on Instagram as audibeltah", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `[𝐃𝐑𝐄𝐗 𝐁𝐎𝐓] 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁\n\ncontact +254102074064 incase of any issues` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `☹︎𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 𝐁𝐎𝐓☹︎ 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n⏣─────────────────⏣\n⏣𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n⏣Have fun with the bot😁\n⏣Contact Developer\n⏣[wa.me/254114141192]⏣\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ©𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖` });
     }
     // console.log('Connected...', update)
   });
