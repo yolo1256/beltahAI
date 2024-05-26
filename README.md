@@ -1,4 +1,4 @@
-# ☹︎𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 𝐁𝐎𝐓☹︎
+# 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 𝐁𝐎𝐓
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐁𝐄𝐋𝐓𝐀𝐇+𝐓𝐄𝐂𝐇+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH+TEAM" alt="Typing SVG" /></a>
   </p>
@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-BOT+IS+A+WHATSAPP+CREATED+BY+BELTAH-TECH-TEAM" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -71,7 +71,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254102074064) via WhatsApp or [here](darkintent120@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254114141192) via WhatsApp or [here](beltake17@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
